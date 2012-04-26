@@ -1,0 +1,31 @@
+How it came about.
+***********************************************************************
+
+For many reasons, I always wanted to make one of these.
+This project is the same as JTel
+Which is another project of mine - a Telnet Client in Java
+This is just a Language Shift.
+And my first Ptoject while learning C#
+
+Can come very handy . 
+Can easily be customized to make stuff like
+Automated Bots, chat clients etc
+
+***********************************************************************
+
+Whats more?
+***********************************************************************
+
+Pretty simple to edit and run
+Figure out which parts need to customized and write and read
+to/from the socket taking advantage of conditions and blah blah
+
+Instead of the old fashoined command line host/port,
+SharpTel prompts you on-screen for it.
+
+************************************************************************
+
+So What is JTel?
+
+Telnet in C# .
+Simple as that .

@@ -1,0 +1,5 @@
+c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\bin\Debug\SharpTel.exe
+c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\bin\Debug\SharpTel.pdb
+c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\SharpTel.exe
+c:\users\arvind .k\documents\visual studio 2010\Projects\SharpTel\SharpTel\obj\x86\Debug\SharpTel.pdb
